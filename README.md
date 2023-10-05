@@ -18,3 +18,5 @@ Call either animate_clt or animate_dist, passing one of your custom random numbe
 Run your script to observe the animated histograms that show the behavior of the chosen experiment.
 
 ---
+
+**CLT_real_data.py** demonstrated the Central Limit Theorem on a real-life dataset.
