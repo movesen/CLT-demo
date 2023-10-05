@@ -21,9 +21,10 @@ def time_to_exam():
 
 
 def animate_clt(func):
+    fig, ax = plt.subplots()
     for _ in range(200):
         x = []
-        for _ in range(50):
+        for _ in range(10):
             x.append(func())
         y.append(np.average(x))
         plt.hist(y, color='red')
@@ -31,14 +32,19 @@ def animate_clt(func):
         plt.pause(0.0001)
     plt.show()
 
+
+
 def animate_dist(func):
+    fig, ax = plt.subplots()
     for _ in range(100):
         y.append(func())
-        plt.hist(y,color='red', bins=2)
+        ax.hist(y,color='red')
         plt.title('Average: ' + str(np.average(y)))
+        plt.xlim(0,1)
         plt.pause(0.0001)
     print(y)
     plt.show()
 
-animate_dist(coinflip)
+animate_clt(time_to_exam)
+
 
