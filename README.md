@@ -1,5 +1,5 @@
 # CLT-demo
-
+---
 **CLT_simple_demo.py** demonstrates the Central Limit Theorem (CLT) and visualizes probability distributions using random number generation and matplotlib. It includes two main functions:
 
 **animate_clt(func):** This function simulates the Central Limit Theorem. It generates random samples of 10 numbers using the provided func (a random number generation function) and calculates the average of each sample. It repeats this process 200 times, storing the averages in a list y. The script then plots a histogram of the averages, updating the plot for each iteration, demonstrating the convergence to a normal distribution as per the Central Limit Theorem.
@@ -16,3 +16,5 @@ Define your custom random number generation functions. In this code, diceroll, a
 Call either animate_clt or animate_dist, passing one of your custom random number generation functions as an argument. These functions will simulate the experiment and update the visualization accordingly.
 
 Run your script to observe the animated histograms that show the behavior of the chosen experiment.
+
+---
