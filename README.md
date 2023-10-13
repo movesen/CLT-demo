@@ -35,13 +35,20 @@ Discuss the results with the class, emphasizing how the CLT works and how it all
 You can calculate and display key statistics of the sample means, such as the mean and standard deviation, to highlight how they align with a normal distribution.
 
 ---
-**CLT_simple_demo.py** demonstrates the Central Limit Theorem (CLT) and visualizes probability distributions using random number generation and matplotlib. It includes two main functions:
+**CLT_simple_demo.py** 
 
-**animate_clt(func):** This function simulates the Central Limit Theorem. It generates random samples of 10 numbers using the provided func (a random number generation function) and calculates the average of each sample. It repeats this process 200 times, storing the averages in a list y. The script then plots a histogram of the averages, updating the plot for each iteration, demonstrating the convergence to a normal distribution as per the Central Limit Theorem.
+demonstrates the Central Limit Theorem (CLT) and visualizes probability distributions using random number generation and matplotlib. It includes two main functions:
 
-**animate_dist(func):** This function simulates a probability distribution. It generates random numbers using the provided func and stores them in the list y. It repeats this process 100 times, updating a histogram of the generated values on each iteration. This function is used to visualize a specific probability distribution.
+**animate_clt(func):** 
+
+This function simulates the Central Limit Theorem. It generates random samples of 10 numbers using the provided func (a random number generation function) and calculates the average of each sample. It repeats this process 200 times, storing the averages in a list y. The script then plots a histogram of the averages, updating the plot for each iteration, demonstrating the convergence to a normal distribution as per the Central Limit Theorem.
+
+**animate_dist(func):** 
+
+This function simulates a probability distribution. It generates random numbers using the provided func and stores them in the list y. It repeats this process 100 times, updating a histogram of the generated values on each iteration. This function is used to visualize a specific probability distribution.
 
 **Usage**
+
 To use this code, you can follow these steps:
 
 Import the required libraries at the beginning of your script, including numpy, random, and matplotlib.
@@ -54,4 +61,6 @@ Run your script to observe the animated histograms that show the behavior of the
 
 ---
 
-**CLT_real_data.py** demonstrated the Central Limit Theorem on a real-life dataset.
+**CLT_real_data.py** 
+
+demonstrated the Central Limit Theorem on a real-life dataset.
