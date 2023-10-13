@@ -2,7 +2,7 @@
 ---
 **Overview**
 
-This repository contains materials and information related to a classroom demonstration of the Central Limit Theorem (CLT) using a simple M&M experiment. The purpose of this presentation is to illustrate how the CLT works and why it's important in statistics. This README will provide an overview of the experiment and its objective.
+This repository contains materials and information related to a classroom demonstration of the Central Limit Theorem (CLT) using a simple M&M experiment. The purpose of this presentation is to illustrate how the CLT works and why it's important in statistics. This README will provide an overview of the experiment and its objective, as well as eariler presentation on this topic.
 
 ---
 **Presentation Objective**
