@@ -3,14 +3,15 @@
 **Overview**
 
 This repository contains materials and information related to a classroom demonstration of the Central Limit Theorem (CLT) using a simple M&M experiment. The purpose of this presentation is to illustrate how the CLT works and why it's important in statistics. This README will provide an overview of the experiment and its objective.
-
+---
 **Presentation Objective**
 
 The primary objective of this presentation is to demonstrate the Central Limit Theorem, a fundamental concept in statistics. The CLT states that, regardless of the shape of the original population distribution, the distribution of the sample means approaches a normal distribution as the sample size increases. This experiment uses M&M candies to visually show this concept.
-
+---
 **Experiment Details**
 
 **Materials Needed**
+
 A large jar or bag of M&M candies (with a variety of colors).
 A classroom or group of participants.
 Writing materials (markers, whiteboard, or paper) for data collection.
