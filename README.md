@@ -14,9 +14,9 @@ The primary objective of this presentation is to demonstrate the Central Limit T
 
 **Materials Needed**
 
-A large jar or bag of M&M candies (with a variety of colors).
-A classroom or group of participants.
-Writing materials (markers, whiteboard, or paper) for data collection.
+1. A large jar or bag of M&M candies (with a variety of colors).
+2. A classroom or group of participants.
+3. Writing materials (markers, whiteboard, or paper) for data collection.
 
 **Experiment Procedure**
 
